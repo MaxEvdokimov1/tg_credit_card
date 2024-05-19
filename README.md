@@ -64,4 +64,4 @@ python3 card_bot.py
 
 ## Автор
 
-Максим Евродиков ([@evdokmax](https://t.me/evdokmax))
+Максим Евдокимов ([@evdokmax](https://t.me/evdokmax))
